@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hallo people,
+
+I'm Danny and new to programing.
